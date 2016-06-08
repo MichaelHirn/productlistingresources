@@ -9,7 +9,7 @@ The task is to build a product listing application or more specifically,
 reproduce Amazon's product listing from the picture below. Focus on the most
 important parts first. The time frame for the task is one hour.
 
-!(assets/product_listing_template.png)
+<img src="assets/product_listing_template.png">
 
 ## Task Resources
 
