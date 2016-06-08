@@ -13,5 +13,5 @@ important parts first. The time frame for the task is one hour.
 
 ## Task Resources
 
-The products, from which the listing are generated from, are stored in [/api/products.json](/api/products.json).
+The products, from which the listing should be generated from, are stored in [/api/products.json](/api/products.json).
 Use this file as the data source. Imagine it being the result of a REST API.
