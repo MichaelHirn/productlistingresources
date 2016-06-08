@@ -1,0 +1,721 @@
+{
+  "type": "product/list",
+  "data": [
+    {
+      "id": "4214",
+      "name": "Asus E200HA-FD0006TS 29,4 cm (11,6 Zoll Glare Type) Notebook (Intel Atom X5-Z8300, 2GB RAM, 32GB eMMC, Intel HD, Win 10 Home) gold inkl. Office 365 Personal",
+      "answered_questions": "73",
+      "reviews_count": 32,
+      "rating": "3.7 out of 5 stars",
+      "sales": 1525125,
+      "display_size": "11.6",
+      "hdd_size": "32GB",
+      "arbeitsspeicher": "2GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81VHBI%2BwWHL._SL1500_.jpg",
+      "offer": {
+        "price": {
+          "fractional": 22900,
+          "currency": "EUR"
+        },
+        "name": "ASUS COMPUTER",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19995,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 24900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 22900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "42521512",
+      "name": "Lenovo IdeaPad 100-15 IBY 39,6 cm (15,6 Zoll) Notebook (Intel Pentium N3540 Quad-Core Prozessor, 2,66GHz, 4GB RAM, 500GB HDD, Intel HD Grafik, Windows 10 Home) schwarz",
+      "answered_questions": "90",
+      "reviews_count": 63,
+      "rating": "4.3 out of 5 stars",
+      "sales": 2335125,
+      "display_size": "15.6",
+      "hdd_size": "500GB",
+      "arbeitsspeicher": "4GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/814YM9-ftRL._SL1500_.jpg",
+      "offer": {
+        "price": {
+          "fractional": 30499,
+          "currency": "EUR"
+        },
+        "name": "lenovo",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 22000,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 25400,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 34900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 32900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "512",
+      "name": "Lenovo (15,6 Zoll) Notebook (Intel N2840 Dual Core 2x2.58 GHz, 8GB RAM, 750GB S-ATA HDD, Intel HD Graphic, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 10 Professional 64 Bit) #4983",
+      "answered_questions": "128",
+      "reviews_count": 160,
+      "rating": "4.2 out of 5 stars",
+      "sales": 2035025,
+      "display_size": "15.6",
+      "hdd_size": "750GB",
+      "arbeitsspeicher": "8GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51XByLQwJbL.jpg",
+      "offer": {
+        "price": {
+          "fractional": 33900,
+          "currency": "EUR"
+        },
+        "name": "shinobee",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 34900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 32900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "51599",
+      "name": "Lenovo YOGA 300-11IBY 29,5 cm (11,6 Zoll HD LED) Convertible Notebook (Intel Celeron N2940 Quad-Core Prozessor, 2,25GHz, 2GB RAM, 32GB SSD, Intel HD Grafik, Touchscreen, Windows 8.1) weiß",
+      "answered_questions": "127",
+      "reviews_count": 84,
+      "rating": "3.8 out of 5 stars",
+      "sales": 195025,
+      "display_size": "11.6",
+      "hdd_size": "32GB",
+      "arbeitsspeicher": "2GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81NOY-V8s9L._SL1500_.jpg",
+      "offer": {
+        "price": {
+          "fractional": 21900,
+          "currency": "EUR"
+        },
+        "name": "LENOVO",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 34900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 32900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "44492",
+      "name": "Lenovo IdeaPad 100 35,6 cm (14 Zoll HD) Notebook (Intel Celeron N2840 Dual-Core Prozessor, 2,6GHz, 2GB RAM, 250GB HDD, Intel HD Grafik, ohne Betriebssystem) schwarz",
+      "answered_questions": "49",
+      "reviews_count": 23,
+      "rating": "3.5 out of 5 stars",
+      "sales": 195025,
+      "display_size": "14",
+      "hdd_size": "250GB",
+      "arbeitsspeicher": "2GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81S72k5MhcL._SL1500_.jpg",
+      "offer": {
+        "price": {
+          "fractional": 19900,
+          "currency": "EUR"
+        },
+        "name": "LENOVO",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 34900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 32900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "4214",
+      "name": "Asus E200HA-FD0006TS 29,4 cm (11,6 Zoll Glare Type) Notebook (Intel Atom X5-Z8300, 2GB RAM, 32GB eMMC, Intel HD, Win 10 Home) gold inkl. Office 365 Personal",
+      "answered_questions": "73",
+      "reviews_count": 32,
+      "rating": "3.7 out of 5 stars",
+      "sales": 1525125,
+      "display_size": "11.6",
+      "hdd_size": "32GB",
+      "arbeitsspeicher": "2GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81VHBI%2BwWHL._SL1500_.jpg",
+      "offer": {
+        "price": {
+          "fractional": 22900,
+          "currency": "EUR"
+        },
+        "name": "ASUS COMPUTER",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19995,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 24900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 22900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "42521512",
+      "name": "Lenovo IdeaPad 100-15 IBY 39,6 cm (15,6 Zoll) Notebook (Intel Pentium N3540 Quad-Core Prozessor, 2,66GHz, 4GB RAM, 500GB HDD, Intel HD Grafik, Windows 10 Home) schwarz",
+      "answered_questions": "90",
+      "reviews_count": 63,
+      "rating": "4.3 out of 5 stars",
+      "sales": 2335125,
+      "display_size": "15.6",
+      "hdd_size": "500GB",
+      "arbeitsspeicher": "4GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/814YM9-ftRL._SL1500_.jpg",
+      "offer": {
+        "price": {
+          "fractional": 30499,
+          "currency": "EUR"
+        },
+        "name": "lenovo",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 22000,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 25400,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 34900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 32900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "512",
+      "name": "Lenovo (15,6 Zoll) Notebook (Intel N2840 Dual Core 2x2.58 GHz, 8GB RAM, 750GB S-ATA HDD, Intel HD Graphic, HDMI, Webcam, Bluetooth, USB 3.0, WLAN, Windows 10 Professional 64 Bit) #4983",
+      "answered_questions": "128",
+      "reviews_count": 160,
+      "rating": "4.2 out of 5 stars",
+      "sales": 2035025,
+      "display_size": "15.6",
+      "hdd_size": "750GB",
+      "arbeitsspeicher": "8GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/51XByLQwJbL.jpg",
+      "offer": {
+        "price": {
+          "fractional": 33900,
+          "currency": "EUR"
+        },
+        "name": "shinobee",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 34900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 32900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "51599",
+      "name": "Lenovo YOGA 300-11IBY 29,5 cm (11,6 Zoll HD LED) Convertible Notebook (Intel Celeron N2940 Quad-Core Prozessor, 2,25GHz, 2GB RAM, 32GB SSD, Intel HD Grafik, Touchscreen, Windows 8.1) weiß",
+      "answered_questions": "127",
+      "reviews_count": 84,
+      "rating": "3.8 out of 5 stars",
+      "sales": 195025,
+      "display_size": "11.6",
+      "hdd_size": "32GB",
+      "arbeitsspeicher": "2GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81NOY-V8s9L._SL1500_.jpg",
+      "offer": {
+        "price": {
+          "fractional": 21900,
+          "currency": "EUR"
+        },
+        "name": "LENOVO",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 34900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 32900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    },
+    {
+      "id": "44492",
+      "name": "Lenovo IdeaPad 100 35,6 cm (14 Zoll HD) Notebook (Intel Celeron N2840 Dual-Core Prozessor, 2,6GHz, 2GB RAM, 250GB HDD, Intel HD Grafik, ohne Betriebssystem) schwarz",
+      "answered_questions": "49",
+      "reviews_count": 23,
+      "rating": "3.5 out of 5 stars",
+      "sales": 195025,
+      "display_size": "14",
+      "hdd_size": "250GB",
+      "arbeitsspeicher": "2GB",
+      "image": "https://images-na.ssl-images-amazon.com/images/I/81S72k5MhcL._SL1500_.jpg",
+      "offer": {
+        "price": {
+          "fractional": 19900,
+          "currency": "EUR"
+        },
+        "name": "LENOVO",
+        "delivered_by": 1465393652,
+        "prime": true
+      },
+      "offers": [
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 29590,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": true
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "used",
+          "price": {
+            "fractional": 19520,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465399652,
+          "prime": false
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 34900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        },
+        {
+          "condition": "new",
+          "price": {
+            "fractional": 32900,
+            "currency": "EUR"
+          },
+          "delivered_by": 1465393652,
+          "prime": true
+        }
+      ]
+    }
+  ]
+}
